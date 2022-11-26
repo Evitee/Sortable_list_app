@@ -30,7 +30,7 @@ function createList() {
         <span class="number">${index + 1}</span>
         <div class="draggable" draggable = "true">
             <p class="person-name">${person}</p>
-            <i class="fa-regular fa-grip-lines"></i>
+            <i class="fa-light fa-grip-lines"></i>
         </div>
         `;
 
